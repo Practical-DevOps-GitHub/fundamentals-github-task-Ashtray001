@@ -1,16 +1,7 @@
-## Pull Request Title
+## Description
+Please include a summary of the change and which issue is fixed.
 
-### Description
-- Briefly describe the purpose of the pull request.
-
-### Related Issues
-- Link any related issues or tasks.
-
-### Checklist
-- [ ] I have tested my changes.
-- [ ] I have added necessary documentation.
-- [ ] I have followed the code style guidelines.
-
-### Approvals
-- This PR requires approval from at least two reviewers to merge into `develop`.
-- This PR requires approval from the owner to merge into `main`.
+## Type of Change
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Breaking change
